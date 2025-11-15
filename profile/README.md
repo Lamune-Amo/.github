@@ -19,12 +19,14 @@ The project covers the full stack:
   </tr>
 </table>
 
-##  Demo video:
+## Demo video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9i1m4zpB8fE?si=X6Us3YmLpKUSvq96" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-</iframe>
-
+<a href="https://www.youtube.com/watch?v=9i1m4zpB8fE">
+  <img src="./figure/thumbnail.jpg" alt="thumbnail" width="600">
+</a>
 <br/>
+
+[Demo Video](https://www.youtube.com/watch?v=9i1m4zpB8fE)
 
 ## Repositories
 
