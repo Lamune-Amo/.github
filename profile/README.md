@@ -2,8 +2,8 @@
 
 **32-bit RISC CPU (AMO)**, SoC, firmware, **toolchain**, and a **time-sharing kernel** — all running on real FPGA hardware.
 
-AMO is a **from-scratch 32-bit RISC architecture**, fully designed and implemented in Verilog (PL-only, no PS).
-The project covers the full stack:
+`AMO` is a **from-scratch 32-bit RISC architecture**, fully designed and implemented in Verilog (PL-only, no PS).
+`Lamune Amo` project covers the full stack:
 
 - **Architecture** – hardwired 32-bit RISC CPU + SoC
 - **Toolchain** – custom **binutils** and **GCC** ports
